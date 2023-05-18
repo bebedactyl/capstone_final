@@ -5,3 +5,7 @@ Winter 2023
 Final Project Repository
 
 Justin Tice & Megan Hoeksema
+
+Data Files:
+Meteorological Data.xlsx
+Sensor Data.xlsx
