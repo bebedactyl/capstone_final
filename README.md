@@ -7,5 +7,5 @@ Final Project Repository
 Justin Tice & Megan Hoeksema
 
 Data Files:
-Meteorological Data.xlsx
-Sensor Data.xlsx
+- Meteorological Data.xlsx
+- Sensor Data.xlsx
